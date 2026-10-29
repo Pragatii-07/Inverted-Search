@@ -1,0 +1,3 @@
+The C programming language is commonly used to develop embedded applications.
+Embedded systems are designed to perform specific tasks efficiently.
+ mango banana apple cat dog apple 

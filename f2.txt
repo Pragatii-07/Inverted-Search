@@ -1,0 +1,3 @@
+C programming provides efficient memory management and fast execution.
+Embedded systems are used in automobiles, medical devices, and industrial machines.
+banana apple orange cat

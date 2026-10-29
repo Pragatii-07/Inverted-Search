@@ -1,0 +1,3 @@
+Embedded systems combine hardware and software to perform dedicated functions.
+Good knowledge of C programming helps in developing reliable embedded software.
+dog tiger mango apple banana cat
